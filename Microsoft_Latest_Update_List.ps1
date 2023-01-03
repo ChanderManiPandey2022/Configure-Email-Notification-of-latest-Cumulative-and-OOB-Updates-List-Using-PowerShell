@@ -4,7 +4,7 @@
 .DESCRIPTION
   <Intune Report Automation -Configure Email Notification of latest Cumulative and OOB Updates List Using PowerShell>
 .Demo
-<YouTube video link-->
+<YouTube video link--> https://www.youtube.com/@chandermanipandey8763
 .INPUTS
   <Provide all required inforamtion in User Input Section>
 .OUTPUTS
